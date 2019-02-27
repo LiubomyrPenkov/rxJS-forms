@@ -1,0 +1,14 @@
+{
+  "name": "rxjs",
+  "version": "",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "rxjs": "^6.4.0",
+    "webpack": "^4.29.5"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.2.3"
+  }
+}
